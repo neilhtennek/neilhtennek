@@ -17,7 +17,7 @@ Before Anthropic I worked across a few different parts of the stack — backend 
 
 #### What I'm building now
 
-**[Preview Ops](https://github.com/neilhtennek/ClaudeLoop)** — an AI-native infrastructure platform that turns a single prompt into a fully provisioned, deployed, and wired-up stack. Describe what you want in plain English, get a live URL in seconds. It also gives every PR a complete preview environment — frontend, backend, database, seeded data, SSL, custom subdomain — torn down automatically on merge.
+**[Preview Ops](https://github.com/neilhtennek/previewops)** — an AI-native infrastructure platform that turns a single prompt into a fully provisioned, deployed, and wired-up stack. Describe what you want in plain English, get a live URL in seconds. It also gives every PR a complete preview environment — frontend, backend, database, seeded data, SSL, custom subdomain — torn down automatically on merge.
 
 The stack is TypeScript, Rust, and Go — a prompt engine that parses natural language into deterministic service graphs, a provider-agnostic provisioner layer, and an intelligence layer that predicts failures and auto-recovers.
 
