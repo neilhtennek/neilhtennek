@@ -27,7 +27,7 @@ The stack is TypeScript end to end — a background worker with SQLite for stora
 
 I spend most of my spare time coding. I like picking apart developer tools, contributing to open-source projects, and prototyping ideas around AI-assisted workflows. When I'm not writing code I'm usually reading about programming language design or trying out new frameworks.
 
-Follow what I'm working on: **[x.com/claudeloop](https://www.x.com/claudeloop)**
+Follow what I'm working on: **[x.com/previewops](https://www.x.com/previewops)**
 
 ---
 
